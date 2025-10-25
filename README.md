@@ -34,7 +34,7 @@
 
 ```yaml
 name: Senura Vinodya
-located_in: Colombo, Sri Lanka 🇱🇰
+located_in: Horana, Sri Lanka 🇱🇰
 current_job: Software Engineer | Full Stack Developer
 education: Higher National Diploma in Software Engineering - NIBM
 experience: 
